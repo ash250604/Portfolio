@@ -368,7 +368,6 @@ main {
 @media (max-width: 600px) {
   .header {
     height: 6em;
-    margin-right: -1em;
   }
 
   .section {
